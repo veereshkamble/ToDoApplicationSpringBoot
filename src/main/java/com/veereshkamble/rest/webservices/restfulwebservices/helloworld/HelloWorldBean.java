@@ -1,4 +1,4 @@
-package com.veereshkamble.rest.webservices.restfulwebservices;
+package com.veereshkamble.rest.webservices.restfulwebservices.helloworld;
 
 /**
  * Created by IntelliJ IDEA.
