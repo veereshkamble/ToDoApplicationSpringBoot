@@ -46,6 +46,7 @@ public class TodoResource {
             @PathVariable String username,
             @PathVariable long id,
             @RequestBody Todo todo) {
+
         Todo updatedTodo = todoService.save(todo);
         return new ResponseEntity<Todo>(updatedTodo,HttpStatus.OK);
     }
