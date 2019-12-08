@@ -1,4 +1,4 @@
-package com.veereshkamble.rest.webservices.restfulwebservices.basic.auth;
+package com.veereshkamble.rest.basic.auth;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;

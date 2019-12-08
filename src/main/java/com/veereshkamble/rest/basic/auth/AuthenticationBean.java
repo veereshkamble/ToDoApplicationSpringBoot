@@ -1,4 +1,4 @@
-package com.veereshkamble.rest.webservices.restfulwebservices.basic.auth;
+package com.veereshkamble.rest.basic.auth;
 
 /**
  * Created by IntelliJ IDEA.
